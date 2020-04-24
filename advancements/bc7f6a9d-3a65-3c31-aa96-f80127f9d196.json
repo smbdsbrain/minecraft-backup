@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2020-04-13 16:22:14 +0000",
+      "minecraft:jungle_hills": "2020-04-13 16:22:12 +0000",
+      "minecraft:savanna": "2020-04-13 16:23:38 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
