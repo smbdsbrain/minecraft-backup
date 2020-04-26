@@ -1889,6 +1889,7 @@
       "melon_slice": "2020-04-14 09:36:22 +0000",
       "cooked_rabbit": "2020-04-13 19:32:19 +0000",
       "cooked_chicken": "2020-04-20 19:07:41 +0000",
+      "rabbit_stew": "2020-04-25 11:39:54 +0000",
       "cooked_salmon": "2020-04-14 18:42:23 +0000",
       "carrot": "2020-04-15 08:10:41 +0000"
     },
@@ -2145,6 +2146,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 19:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-04-25 11:34:30 +0000"
     },
     "done": true
   },

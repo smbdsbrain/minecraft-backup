@@ -1452,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-04-25 17:30:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-04-19 15:23:31 +0000",
