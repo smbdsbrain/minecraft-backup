@@ -792,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-04-27 11:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2020-04-15 18:01:57 +0000"
@@ -1229,6 +1235,7 @@
       "minecraft:jungle_edge": "2020-04-10 20:12:42 +0000",
       "minecraft:cold_ocean": "2020-04-11 19:07:31 +0000",
       "minecraft:forest": "2020-04-10 20:05:48 +0000",
+      "minecraft:mountains": "2020-04-27 15:24:50 +0000",
       "minecraft:desert_hills": "2020-04-11 21:47:01 +0000",
       "minecraft:deep_cold_ocean": "2020-04-11 16:47:45 +0000",
       "minecraft:desert": "2020-04-10 20:12:45 +0000",
@@ -1427,6 +1434,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2020-04-10 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-04-27 11:02:54 +0000"
     },
     "done": true
   },
@@ -1808,6 +1821,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-10 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-04-27 11:02:54 +0000"
     },
     "done": true
   },

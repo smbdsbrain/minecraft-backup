@@ -663,10 +663,12 @@
       "minecraft:magma_cube": "2020-04-14 15:41:41 +0000",
       "minecraft:spider": "2020-04-13 17:42:45 +0000",
       "minecraft:creeper": "2020-04-13 19:21:52 +0000",
+      "minecraft:slime": "2020-04-27 13:46:39 +0000",
       "minecraft:phantom": "2020-04-14 05:13:44 +0000",
       "minecraft:witch": "2020-04-15 19:11:49 +0000",
       "minecraft:husk": "2020-04-14 04:32:14 +0000",
       "minecraft:shulker": "2020-04-21 20:47:35 +0000",
+      "minecraft:cave_spider": "2020-04-27 00:01:53 +0000",
       "minecraft:enderman": "2020-04-14 09:36:39 +0000",
       "minecraft:zombie": "2020-04-13 13:06:03 +0000",
       "minecraft:drowned": "2020-04-14 04:55:12 +0000",
@@ -1256,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-26 21:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-13 17:12:57 +0000"
@@ -1423,6 +1431,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2020-04-21 21:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2020-04-28 11:34:40 +0000"
     },
     "done": true
   },
@@ -1886,6 +1900,7 @@
       "bread": "2020-04-13 18:15:51 +0000",
       "rotten_flesh": "2020-04-13 10:45:53 +0000",
       "suspicious_stew": "2020-04-19 09:05:24 +0000",
+      "salmon": "2020-04-28 14:22:14 +0000",
       "melon_slice": "2020-04-14 09:36:22 +0000",
       "cooked_rabbit": "2020-04-13 19:32:19 +0000",
       "cooked_chicken": "2020-04-20 19:07:41 +0000",
@@ -2371,9 +2386,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/two_birds_one_arrow": {
+    "criteria": {
+      "two_birds": "2020-04-28 15:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-04-14 15:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-04-28 22:04:55 +0000"
     },
     "done": true
   },
@@ -2413,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-04-28 22:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2020-04-13 17:11:47 +0000"
@@ -2446,6 +2479,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2020-04-21 21:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-26 21:58:43 +0000"
     },
     "done": true
   },
@@ -2797,6 +2836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-26 21:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-13 18:10:08 +0000"
@@ -2944,6 +2989,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-04-14 15:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-28 15:11:41 +0000"
     },
     "done": true
   },
