@@ -376,6 +376,7 @@
       "chorus_fruit": "2020-04-27 22:10:13 +0000",
       "cooked_cod": "2020-04-24 20:44:51 +0000",
       "dried_kelp": "2020-04-26 18:16:06 +0000",
+      "mushroom_stew": "2020-04-29 22:20:19 +0000",
       "cod": "2020-04-26 18:46:45 +0000"
     },
     "done": false
@@ -589,6 +590,12 @@
       "has_stone": "2020-04-26 19:35:39 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2020-04-29 22:06:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1230,6 +1237,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-26 22:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-04-29 21:53:04 +0000"
     },
     "done": true
   },
@@ -1885,6 +1898,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-04-25 14:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-04-29 22:06:07 +0000"
     },
     "done": true
   },

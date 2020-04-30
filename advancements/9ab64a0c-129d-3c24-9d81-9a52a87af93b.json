@@ -674,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-29 17:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2019-10-12 17:33:40 +0000"
@@ -767,6 +773,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2020-04-14 15:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-29 17:56:33 +0000"
     },
     "done": true
   },
@@ -911,6 +923,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-10-02 17:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2020-04-29 17:56:35 +0000"
     },
     "done": true
   },
@@ -1389,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2020-04-29 17:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-10-02 16:52:01 +0000"
@@ -1524,6 +1548,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2019-10-02 16:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-29 17:56:33 +0000"
     },
     "done": true
   },
@@ -1913,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-04-29 17:19:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-04-26 08:57:04 +0000"
@@ -1961,6 +1997,7 @@
       "golden_apple": "2020-04-17 21:36:03 +0000",
       "rotten_flesh": "2019-10-03 15:58:37 +0000",
       "golden_carrot": "2020-04-22 17:26:20 +0000",
+      "beetroot": "2020-04-29 17:21:52 +0000",
       "cooked_chicken": "2020-04-17 09:11:47 +0000",
       "cooked_salmon": "2020-04-14 13:11:23 +0000",
       "carrot": "2020-04-14 13:11:15 +0000"
@@ -2173,6 +2210,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:llama": "2020-04-29 17:59:47 +0000",
       "minecraft:sheep": "2020-04-28 15:44:02 +0000",
       "minecraft:cow": "2020-04-20 17:03:34 +0000"
     },
@@ -2217,6 +2255,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-10-02 17:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-04-29 17:19:26 +0000"
     },
     "done": true
   },
@@ -2511,6 +2555,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-10-02 17:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2020-04-29 17:56:35 +0000"
     },
     "done": true
   },
@@ -3038,6 +3088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-04-29 18:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2020-04-26 08:57:35 +0000"
@@ -3143,6 +3199,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-10-03 15:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-04-29 18:24:22 +0000"
     },
     "done": true
   },

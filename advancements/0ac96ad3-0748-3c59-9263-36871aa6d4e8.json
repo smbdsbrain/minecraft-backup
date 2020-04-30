@@ -354,6 +354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-29 19:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 19:06:18 +0000"
@@ -496,6 +502,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-04-14 15:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-29 19:45:13 +0000"
     },
     "done": true
   },
@@ -660,12 +672,15 @@
       "minecraft:pillager": "2020-04-14 05:32:26 +0000",
       "minecraft:blaze": "2020-04-14 15:37:30 +0000",
       "minecraft:skeleton": "2020-04-13 19:50:10 +0000",
+      "minecraft:zombie_pigman": "2020-04-29 19:49:34 +0000",
+      "minecraft:ghast": "2020-04-29 19:45:13 +0000",
       "minecraft:magma_cube": "2020-04-14 15:41:41 +0000",
       "minecraft:spider": "2020-04-13 17:42:45 +0000",
       "minecraft:creeper": "2020-04-13 19:21:52 +0000",
       "minecraft:slime": "2020-04-27 13:46:39 +0000",
       "minecraft:phantom": "2020-04-14 05:13:44 +0000",
       "minecraft:witch": "2020-04-15 19:11:49 +0000",
+      "minecraft:wither_skeleton": "2020-04-29 19:36:06 +0000",
       "minecraft:husk": "2020-04-14 04:32:14 +0000",
       "minecraft:shulker": "2020-04-21 20:47:35 +0000",
       "minecraft:cave_spider": "2020-04-27 00:01:53 +0000",
@@ -1902,6 +1917,7 @@
       "suspicious_stew": "2020-04-19 09:05:24 +0000",
       "salmon": "2020-04-28 14:22:14 +0000",
       "melon_slice": "2020-04-14 09:36:22 +0000",
+      "golden_carrot": "2020-04-29 20:14:17 +0000",
       "cooked_rabbit": "2020-04-13 19:32:19 +0000",
       "cooked_chicken": "2020-04-20 19:07:41 +0000",
       "rabbit_stew": "2020-04-25 11:39:54 +0000",
@@ -2491,6 +2507,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-14 14:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-29 19:50:04 +0000"
     },
     "done": true
   },

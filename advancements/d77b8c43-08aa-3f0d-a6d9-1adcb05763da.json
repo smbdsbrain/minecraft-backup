@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2020-04-29 14:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2020-03-27 12:23:53 +0000"
@@ -3985,6 +3991,7 @@
       "textures/entity/cat/white.png": "2020-04-04 12:13:40 +0000",
       "textures/entity/cat/jellie.png": "2020-03-27 12:22:13 +0000",
       "textures/entity/cat/black.png": "2020-04-04 08:47:10 +0000",
+      "textures/entity/cat/siamese.png": "2020-04-29 14:52:03 +0000",
       "textures/entity/cat/ragdoll.png": "2020-04-09 12:45:23 +0000",
       "textures/entity/cat/british_shorthair.png": "2020-04-06 06:43:09 +0000",
       "textures/entity/cat/all_black.png": "2020-04-17 15:21:43 +0000",
@@ -3992,7 +3999,7 @@
       "textures/entity/cat/calico.png": "2020-04-04 09:30:09 +0000",
       "textures/entity/cat/red.png": "2020-04-10 11:40:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
