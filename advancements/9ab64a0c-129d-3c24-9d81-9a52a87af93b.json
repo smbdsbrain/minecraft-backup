@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2020-04-30 14:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-02 17:30:40 +0000"
@@ -458,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2020-04-30 17:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-04-19 15:24:30 +0000",
@@ -752,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2020-04-30 14:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2020-04-21 13:20:38 +0000"
@@ -809,6 +827,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-10-12 18:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-04-30 14:44:50 +0000"
     },
     "done": true
   },
@@ -1563,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-04-30 14:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-10-02 17:10:18 +0000"
@@ -1664,6 +1694,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-10-02 16:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2020-04-30 14:24:02 +0000"
     },
     "done": true
   },
@@ -1988,6 +2024,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-04-14 13:09:40 +0000",
+      "cooked_mutton": "2020-04-30 14:33:46 +0000",
       "cooked_beef": "2020-04-14 12:39:21 +0000",
       "chorus_fruit": "2020-04-19 10:47:36 +0000",
       "baked_potato": "2019-10-02 17:02:35 +0000",
@@ -2013,6 +2050,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-10-12 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-04-30 14:44:50 +0000"
     },
     "done": true
   },
@@ -2211,6 +2254,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:llama": "2020-04-29 17:59:47 +0000",
+      "minecraft:pig": "2020-04-30 17:53:20 +0000",
       "minecraft:sheep": "2020-04-28 15:44:02 +0000",
       "minecraft:cow": "2020-04-20 17:03:34 +0000"
     },
@@ -3282,7 +3326,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/black.png": "2020-04-21 14:57:57 +0000"
+      "textures/entity/cat/black.png": "2020-04-21 14:57:57 +0000",
+      "textures/entity/cat/siamese.png": "2020-04-30 14:48:03 +0000"
     },
     "done": false
   },
