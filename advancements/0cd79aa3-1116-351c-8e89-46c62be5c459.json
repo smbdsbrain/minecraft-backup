@@ -2747,7 +2747,8 @@
       "minecraft:sheep": "2019-09-27 22:01:37 +0000",
       "minecraft:mooshroom": "2019-10-18 20:43:37 +0000",
       "minecraft:cow": "2019-09-28 17:13:18 +0000",
-      "minecraft:chicken": "2019-09-27 22:28:05 +0000"
+      "minecraft:chicken": "2019-09-27 22:28:05 +0000",
+      "minecraft:bee": "2020-05-02 15:39:52 +0000"
     },
     "done": false
   },
@@ -3306,6 +3307,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2019-10-09 12:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-05-02 08:27:24 +0000"
     },
     "done": true
   },
@@ -4020,6 +4027,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2019-10-05 17:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-05-02 10:14:13 +0000"
     },
     "done": true
   },

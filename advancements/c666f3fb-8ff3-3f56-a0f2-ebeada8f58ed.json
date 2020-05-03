@@ -53,9 +53,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-05-02 16:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-03-28 13:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-05-02 13:37:55 +0000"
     },
     "done": true
   },
@@ -446,6 +458,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2020-03-28 13:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-05-02 13:37:55 +0000"
     },
     "done": true
   },
@@ -1214,6 +1232,7 @@
       "minecraft:deep_cold_ocean": "2020-03-29 12:00:30 +0000",
       "minecraft:desert": "2020-03-27 19:39:08 +0000",
       "minecraft:jungle": "2020-03-27 19:39:23 +0000",
+      "minecraft:birch_forest": "2020-05-02 13:01:51 +0000",
       "minecraft:jungle_hills": "2020-03-27 19:39:37 +0000",
       "minecraft:savanna_plateau": "2020-03-27 19:40:07 +0000",
       "minecraft:beach": "2020-03-29 11:59:35 +0000",
@@ -1738,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-05-02 13:37:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-30 17:26:41 +0000"
@@ -1980,6 +2005,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-03-30 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-05-02 13:37:55 +0000"
     },
     "done": true
   },
@@ -2769,6 +2800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-05-02 13:37:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-29 12:09:39 +0000"
@@ -2850,6 +2887,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-04-03 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-05-02 13:37:55 +0000"
     },
     "done": true
   },
