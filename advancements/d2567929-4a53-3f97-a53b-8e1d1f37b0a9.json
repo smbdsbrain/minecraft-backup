@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2020-05-11 08:26:32 +0000",
+      "minecraft:forest": "2020-05-11 08:26:45 +0000",
+      "minecraft:jungle": "2020-05-11 08:26:25 +0000",
+      "minecraft:jungle_hills": "2020-05-11 08:26:19 +0000",
+      "minecraft:river": "2020-05-11 08:26:31 +0000",
+      "minecraft:wooded_hills": "2020-05-11 08:26:40 +0000",
+      "minecraft:plains": "2020-05-11 08:26:38 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
