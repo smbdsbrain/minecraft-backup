@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2020-05-13 13:00:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2020-04-18 20:00:36 +0000"
@@ -285,6 +291,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-04-18 11:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-05-13 12:57:33 +0000"
     },
     "done": true
   },
@@ -552,6 +564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-05-13 13:31:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-04-29 15:22:53 +0000",
@@ -766,6 +784,7 @@
       "minecraft:ravager": "2020-05-05 04:22:10 +0000",
       "minecraft:ghast": "2020-05-05 05:47:52 +0000",
       "minecraft:vindicator": "2020-05-05 04:19:34 +0000",
+      "minecraft:magma_cube": "2020-05-13 14:59:55 +0000",
       "minecraft:spider": "2020-04-18 11:16:19 +0000",
       "minecraft:creeper": "2020-04-17 08:05:33 +0000",
       "minecraft:phantom": "2020-04-17 10:45:34 +0000",
@@ -869,6 +888,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-17 09:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-05-13 12:55:54 +0000"
     },
     "done": true
   },
@@ -1813,6 +1838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-05-13 12:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2020-04-16 19:41:52 +0000"
@@ -1873,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-05-13 12:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2020-04-16 21:05:31 +0000"
@@ -1888,6 +1925,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-16 23:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-05-13 12:44:36 +0000"
     },
     "done": true
   },
