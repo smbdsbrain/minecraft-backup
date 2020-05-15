@@ -933,7 +933,8 @@
       "minecraft:cave_spider": "2020-05-13 09:46:17 +0000",
       "minecraft:enderman": "2020-05-13 13:26:22 +0000",
       "minecraft:silverfish": "2020-05-13 14:06:14 +0000",
-      "minecraft:zombie": "2020-05-13 09:45:27 +0000"
+      "minecraft:zombie": "2020-05-13 09:45:27 +0000",
+      "minecraft:zombie_villager": "2020-05-14 17:42:42 +0000"
     },
     "done": false
   },
@@ -1336,6 +1337,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-05-13 09:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2020-05-14 17:43:03 +0000"
     },
     "done": true
   },
@@ -1895,6 +1902,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-04-17 19:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2020-05-14 17:43:03 +0000"
     },
     "done": true
   },

@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-05-14 21:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-26 17:57:40 +0000"
@@ -573,6 +579,7 @@
     "criteria": {
       "minecraft:blaze": "2020-04-26 21:33:21 +0000",
       "minecraft:skeleton": "2020-04-26 19:22:34 +0000",
+      "minecraft:zombie_pigman": "2020-05-14 21:14:52 +0000",
       "minecraft:ghast": "2020-05-11 09:23:31 +0000",
       "minecraft:magma_cube": "2020-04-26 21:21:10 +0000",
       "minecraft:spider": "2020-04-26 20:27:16 +0000",
@@ -1284,6 +1291,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2020-05-11 21:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-05-14 21:16:38 +0000"
     },
     "done": true
   },
@@ -2047,6 +2060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-05-14 21:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-05-11 21:29:26 +0000"
@@ -2260,6 +2279,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-26 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-05-14 21:16:38 +0000"
     },
     "done": true
   },
