@@ -1496,6 +1496,7 @@
       "minecraft:giant_tree_taiga": "2020-05-12 05:01:16 +0000",
       "minecraft:deep_cold_ocean": "2020-04-17 08:15:13 +0000",
       "minecraft:snowy_tundra": "2020-05-12 03:55:58 +0000",
+      "minecraft:taiga_hills": "2020-05-23 07:27:00 +0000",
       "minecraft:desert": "2020-04-13 10:34:06 +0000",
       "minecraft:deep_frozen_ocean": "2020-05-02 18:26:12 +0000",
       "minecraft:jungle": "2020-04-13 10:34:09 +0000",
@@ -3031,6 +3032,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-04-13 17:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2020-05-24 06:36:45 +0000"
     },
     "done": true
   },
