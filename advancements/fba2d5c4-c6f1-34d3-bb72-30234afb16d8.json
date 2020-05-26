@@ -1256,6 +1256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-05-25 22:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2020-04-29 20:37:34 +0000"
@@ -2290,6 +2296,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-05-25 22:38:10 +0000",
       "chorus_fruit": "2020-04-11 15:33:29 +0000",
       "baked_potato": "2020-04-10 21:09:41 +0000",
       "spider_eye": "2020-05-01 20:06:23 +0000",
