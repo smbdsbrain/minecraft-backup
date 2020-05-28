@@ -1891,6 +1891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-05-27 17:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-09-27 21:06:04 +0000"
@@ -3381,6 +3387,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-07-01 19:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2020-05-27 20:26:12 +0000"
     },
     "done": true
   },
