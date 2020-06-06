@@ -880,11 +880,12 @@
       "minecraft:cave_spider": "2020-06-04 15:46:14 +0000",
       "minecraft:enderman": "2020-03-29 08:24:16 +0000",
       "minecraft:silverfish": "2020-06-04 15:48:36 +0000",
+      "minecraft:stray": "2020-06-05 11:20:39 +0000",
       "minecraft:zombie": "2020-03-28 10:21:34 +0000",
       "minecraft:drowned": "2020-03-27 12:51:36 +0000",
       "minecraft:zombie_villager": "2020-03-30 13:59:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1234,6 +1235,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-28 11:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-06-05 15:22:55 +0000"
     },
     "done": true
   },
@@ -2400,6 +2407,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-06-05 15:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2020-04-04 14:18:10 +0000"
@@ -2809,9 +2822,10 @@
       "minecraft:wolf": "2020-04-17 16:17:17 +0000",
       "minecraft:panda": "2020-04-03 13:47:36 +0000",
       "minecraft:horse": "2020-04-06 06:49:48 +0000",
+      "minecraft:rabbit": "2020-06-05 15:15:12 +0000",
       "minecraft:bee": "2020-03-29 08:08:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
