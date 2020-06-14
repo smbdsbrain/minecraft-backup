@@ -35,9 +35,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_andesite": "2020-05-23 18:03:56 +0000"
+      "has_planks": "2020-05-23 17:47:50 +0000"
     },
     "done": true
   },
@@ -47,9 +47,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_planks": "2020-05-23 17:47:50 +0000"
+      "has_andesite": "2020-05-23 18:03:56 +0000"
     },
     "done": true
   },
@@ -103,18 +103,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2020-05-23 17:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2020-05-23 18:03:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-05-23 17:45:51 +0000"
@@ -127,9 +115,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-05-23 17:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-05-23 18:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2020-05-23 18:03:56 +0000"
     },
     "done": true
   },
@@ -169,15 +169,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2020-05-23 17:55:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-05-23 17:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-05-23 17:55:42 +0000"
     },
     "done": true
   },
@@ -188,6 +188,12 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-05-23 17:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-05-23 17:47:50 +0000"
     },
@@ -205,9 +211,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_planks": "2020-05-23 17:47:50 +0000"
+      "has_stick": "2020-05-23 17:48:42 +0000"
     },
     "done": true
   },
@@ -217,21 +223,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_stick": "2020-05-23 17:48:42 +0000"
+      "in_water": "2020-05-23 17:41:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-05-23 18:00:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2020-05-23 17:41:20 +0000"
     },
     "done": true
   },
@@ -277,15 +277,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "melon_stem": "2020-05-23 18:11:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-05-23 18:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2020-05-23 18:11:53 +0000"
     },
     "done": true
   },
@@ -295,15 +295,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-05-23 17:52:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-05-23 17:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-05-23 17:52:59 +0000"
     },
     "done": true
   },
@@ -391,27 +391,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2020-05-23 18:00:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-05-23 17:48:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "has_log": "2020-05-23 17:55:00 +0000"
+      "has_planks": "2020-05-23 18:00:43 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-05-23 17:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-05-23 17:55:00 +0000"
     },
     "done": true
   },
@@ -481,21 +481,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2020-05-23 17:48:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-05-23 17:41:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
+  "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "has_cocoa_beans": "2020-05-23 18:14:31 +0000"
+      "has_stick": "2020-05-23 17:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-05-23 17:52:15 +0000"
     },
     "done": true
   },
@@ -505,9 +505,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_melon": "2020-05-23 17:52:15 +0000"
+      "has_cocoa_beans": "2020-05-23 18:14:31 +0000"
     },
     "done": true
   },
