@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-06-22 18:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-11-22 14:38:46 +0000"
@@ -566,6 +572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-06-22 18:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-11-22 13:53:17 +0000"
@@ -689,6 +701,7 @@
       "minecraft:magma_cube": "2020-04-19 12:35:31 +0000",
       "minecraft:spider": "2019-11-22 14:28:31 +0000",
       "minecraft:creeper": "2019-12-19 14:31:11 +0000",
+      "minecraft:slime": "2020-06-22 18:17:04 +0000",
       "minecraft:wither_skeleton": "2020-04-19 12:24:59 +0000",
       "minecraft:enderman": "2019-11-22 14:56:12 +0000",
       "minecraft:zombie": "2019-11-22 14:56:35 +0000"
@@ -1382,6 +1395,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2019-12-14 17:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-06-22 18:17:07 +0000"
     },
     "done": true
   },
@@ -2608,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-06-22 18:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-12-10 16:43:27 +0000"
@@ -2977,6 +3002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-06-22 18:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-11-22 14:12:57 +0000"
@@ -3046,6 +3077,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-04-20 09:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-06-22 18:08:18 +0000"
     },
     "done": true
   },
