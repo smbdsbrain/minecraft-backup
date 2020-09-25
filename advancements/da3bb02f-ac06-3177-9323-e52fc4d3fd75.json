@@ -326,12 +326,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_logs": "2020-04-21 20:27:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-04-22 20:13:11 +0000"
@@ -446,12 +440,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/break_diamond_hoe": {
-    "criteria": {
-      "broke_hoe": "2020-04-22 23:12:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2020-05-11 11:31:55 +0000"
@@ -497,12 +485,6 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2020-05-09 11:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-04-23 13:58:50 +0000"
     },
     "done": true
   },
@@ -629,12 +611,6 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-22 09:32:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2020-04-21 16:00:05 +0000"
     },
     "done": true
   },
@@ -781,13 +757,13 @@
       "minecraft:blaze": "2020-04-22 12:09:20 +0000",
       "minecraft:pillager": "2020-04-23 20:21:40 +0000",
       "minecraft:skeleton": "2020-04-21 17:30:50 +0000",
-      "minecraft:zombie_pigman": "2020-04-24 19:47:09 +0000",
       "minecraft:ghast": "2020-04-22 12:11:22 +0000",
       "minecraft:magma_cube": "2020-04-22 12:11:52 +0000",
       "minecraft:spider": "2020-04-21 22:06:26 +0000",
       "minecraft:creeper": "2020-04-22 10:51:21 +0000",
       "minecraft:slime": "2020-05-16 14:39:27 +0000",
       "minecraft:phantom": "2020-04-21 22:05:40 +0000",
+      "minecraft:zombified_piglin": "2020-04-24 19:47:09 +0000",
       "minecraft:witch": "2020-04-30 12:31:27 +0000",
       "minecraft:wither_skeleton": "2020-04-24 18:44:58 +0000",
       "minecraft:shulker": "2020-04-24 12:30:21 +0000",
@@ -1273,15 +1249,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2020-04-21 21:12:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2020-04-24 18:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-09-24 08:07:20 +0000"
     },
     "done": true
   },
@@ -1333,12 +1309,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_log": "2020-04-22 00:10:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-04-21 22:46:29 +0000"
@@ -1381,12 +1351,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2020-04-22 10:27:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-21 15:28:03 +0000"
@@ -1399,21 +1363,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2020-04-21 22:39:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-22 20:12:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
-    "criteria": {
-      "has_oramge_dye": "2020-04-24 09:27:35 +0000"
     },
     "done": true
   },
@@ -3520,12 +3472,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_logs": "2020-05-15 06:56:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-21 22:20:05 +0000"
@@ -3613,6 +3559,12 @@
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_chorus_fruit_popped": "2020-05-16 13:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-04-23 13:58:50 +0000"
     },
     "done": true
   },
@@ -3922,5 +3874,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2580
 }
