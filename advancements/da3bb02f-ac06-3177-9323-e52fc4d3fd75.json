@@ -338,6 +338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2020-09-26 05:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2020-04-24 12:41:08 +0000"
@@ -614,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-09-25 19:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2020-04-21 22:43:55 +0000"
@@ -767,6 +779,7 @@
       "minecraft:witch": "2020-04-30 12:31:27 +0000",
       "minecraft:wither_skeleton": "2020-04-24 18:44:58 +0000",
       "minecraft:shulker": "2020-04-24 12:30:21 +0000",
+      "minecraft:piglin": "2020-09-25 08:00:34 +0000",
       "minecraft:enderman": "2020-04-21 21:20:54 +0000",
       "minecraft:silverfish": "2020-04-26 02:28:33 +0000",
       "minecraft:zombie": "2020-04-21 15:31:04 +0000",
@@ -928,6 +941,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2020-05-16 15:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-09-25 08:13:03 +0000"
     },
     "done": true
   },
@@ -1306,6 +1325,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-04-24 09:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-09-25 19:34:12 +0000"
     },
     "done": true
   },
@@ -1816,6 +1841,13 @@
       "has_bamboo": "2020-04-24 09:27:19 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-09-25 07:58:18 +0000",
+      "minecraft:warped_forest": "2020-09-25 07:59:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -3730,6 +3762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2020-09-25 07:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2020-05-09 14:25:12 +0000"
@@ -3835,6 +3873,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_gray_dye": "2020-05-11 17:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-09-25 19:38:49 +0000"
     },
     "done": true
   },
