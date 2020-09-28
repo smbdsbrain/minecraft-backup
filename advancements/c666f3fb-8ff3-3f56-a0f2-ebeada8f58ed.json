@@ -1588,6 +1588,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2020-09-19 08:24:39 +0000",
+      "minecraft:soul_sand_valley": "2020-09-27 11:16:01 +0000",
       "minecraft:warped_forest": "2020-09-19 12:53:18 +0000",
       "minecraft:basalt_deltas": "2020-09-19 14:33:30 +0000"
     },
@@ -1704,6 +1705,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-03-27 21:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-09-27 11:16:39 +0000"
     },
     "done": true
   },
@@ -1854,6 +1861,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-03 22:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-09-27 11:18:06 +0000"
     },
     "done": true
   },
