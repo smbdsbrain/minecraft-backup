@@ -324,12 +324,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_logs": "2020-04-13 17:11:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2020-04-13 18:03:19 +0000"
@@ -471,12 +465,6 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2020-04-21 17:26:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-04-14 11:47:50 +0000"
     },
     "done": true
   },
@@ -744,13 +732,13 @@
       "minecraft:pillager": "2020-04-14 05:32:26 +0000",
       "minecraft:blaze": "2020-04-14 15:37:30 +0000",
       "minecraft:skeleton": "2020-04-13 19:50:10 +0000",
-      "minecraft:zombie_pigman": "2020-04-29 19:49:34 +0000",
       "minecraft:ghast": "2020-04-29 19:45:13 +0000",
       "minecraft:magma_cube": "2020-04-14 15:41:41 +0000",
       "minecraft:spider": "2020-04-13 17:42:45 +0000",
       "minecraft:creeper": "2020-04-13 19:21:52 +0000",
       "minecraft:slime": "2020-04-27 13:46:39 +0000",
       "minecraft:phantom": "2020-04-14 05:13:44 +0000",
+      "minecraft:zombified_piglin": "2020-04-29 19:49:34 +0000",
       "minecraft:witch": "2020-04-15 19:11:49 +0000",
       "minecraft:wither_skeleton": "2020-04-29 19:36:06 +0000",
       "minecraft:husk": "2020-04-14 04:32:14 +0000",
@@ -1202,12 +1190,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2020-04-13 10:46:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2020-04-14 13:09:42 +0000"
@@ -1262,12 +1244,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_log": "2020-05-02 18:21:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-05-03 01:15:54 +0000"
@@ -1298,12 +1274,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2020-04-13 13:21:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-13 17:14:43 +0000"
@@ -1316,21 +1286,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2020-04-13 17:42:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-13 17:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
-    "criteria": {
-      "has_oramge_dye": "2020-04-23 18:41:04 +0000"
     },
     "done": true
   },
@@ -1748,6 +1706,13 @@
       "has_bamboo": "2020-04-14 15:12:15 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-09-29 22:21:04 +0000",
+      "minecraft:warped_forest": "2020-09-29 22:20:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -3390,12 +3355,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_logs": "2020-04-13 17:21:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-15 08:31:33 +0000"
@@ -3477,6 +3436,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 19:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-04-14 11:47:50 +0000"
     },
     "done": true
   },
@@ -3678,13 +3643,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-22 17:32:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-22 17:32:26 +0000"
     },
@@ -3786,5 +3751,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2580
 }
