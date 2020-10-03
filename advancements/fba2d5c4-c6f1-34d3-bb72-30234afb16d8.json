@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-10-02 17:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-04-10 21:29:46 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-05-22 20:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2020-10-02 17:33:42 +0000"
     },
     "done": true
   },
@@ -1344,6 +1356,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-04-16 17:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-10-02 17:03:41 +0000"
     },
     "done": true
   },
