@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2020-04-02 09:07:51 +0000"
@@ -531,6 +537,12 @@
   "minecraft:nether/all_potions": {
     "criteria": {
       "all_effects": "2020-04-03 15:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },
@@ -685,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2020-09-19 14:10:28 +0000"
@@ -766,6 +784,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-03-27 12:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },
@@ -907,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-28 11:39:53 +0000"
@@ -989,6 +1019,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-03-27 13:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },
@@ -2870,6 +2906,7 @@
       "minecraft:enderman": "2020-03-29 08:24:16 +0000",
       "minecraft:silverfish": "2020-06-04 15:48:36 +0000",
       "minecraft:stray": "2020-06-05 11:20:39 +0000",
+      "minecraft:endermite": "2020-10-03 10:40:18 +0000",
       "minecraft:zombie": "2020-03-28 10:21:34 +0000",
       "minecraft:drowned": "2020-03-27 12:51:36 +0000",
       "minecraft:zombie_villager": "2020-03-30 13:59:30 +0000"
@@ -2879,6 +2916,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-03-31 17:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },
@@ -2933,6 +2976,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-04-10 12:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },
@@ -3216,6 +3265,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-06-30 12:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },
@@ -3648,6 +3703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-27 14:40:40 +0000"
@@ -3819,6 +3880,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2020-03-31 15:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-10-03 11:26:02 +0000"
     },
     "done": true
   },

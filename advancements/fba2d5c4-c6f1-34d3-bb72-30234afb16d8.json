@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2020-10-03 21:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-04-13 22:18:02 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-13 22:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2020-10-03 22:32:47 +0000"
     },
     "done": true
   },
@@ -950,6 +962,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-11 15:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2020-10-03 22:32:47 +0000"
     },
     "done": true
   },
@@ -1700,6 +1718,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-04-10 21:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-10-03 13:18:15 +0000"
     },
     "done": true
   },
@@ -2654,6 +2678,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-10-03 09:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-10 21:36:17 +0000"
@@ -3209,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-10-03 17:23:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2020-04-14 01:59:13 +0000"
@@ -3317,6 +3353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2020-10-03 21:51:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-16 17:10:57 +0000"
@@ -3372,6 +3414,8 @@
       "minecraft:jungle": "2020-04-10 21:11:25 +0000",
       "minecraft:jungle_hills": "2020-04-10 21:27:35 +0000",
       "minecraft:bamboo_jungle": "2020-04-24 22:44:06 +0000",
+      "minecraft:warm_ocean": "2020-10-03 21:49:14 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-10-03 22:08:37 +0000",
       "minecraft:savanna_plateau": "2020-04-10 21:10:28 +0000",
       "minecraft:beach": "2020-04-10 21:28:26 +0000",
       "minecraft:river": "2020-04-10 21:11:17 +0000",
@@ -3660,6 +3704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2020-10-03 22:32:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-17 22:09:56 +0000"
@@ -3744,6 +3794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-10-03 14:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-04-10 21:11:08 +0000"
@@ -3793,6 +3849,7 @@
       "chorus_fruit": "2020-04-11 15:33:29 +0000",
       "baked_potato": "2020-04-10 21:09:41 +0000",
       "beef": "2020-07-28 22:34:16 +0000",
+      "apple": "2020-10-03 17:11:23 +0000",
       "spider_eye": "2020-05-01 20:06:23 +0000",
       "potato": "2020-09-25 16:15:47 +0000",
       "cooked_cod": "2020-04-10 21:11:48 +0000",
@@ -4106,6 +4163,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-04-11 23:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-10-03 13:18:15 +0000"
     },
     "done": true
   },
