@@ -744,6 +744,7 @@
       "minecraft:husk": "2020-04-14 04:32:14 +0000",
       "minecraft:shulker": "2020-04-21 20:47:35 +0000",
       "minecraft:cave_spider": "2020-04-27 00:01:53 +0000",
+      "minecraft:piglin": "2020-10-04 16:10:40 +0000",
       "minecraft:enderman": "2020-04-14 09:36:39 +0000",
       "minecraft:silverfish": "2020-05-11 17:13:16 +0000",
       "minecraft:zombie": "2020-04-13 13:06:03 +0000",
@@ -1199,6 +1200,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2020-04-14 13:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-10-04 15:47:25 +0000"
     },
     "done": true
   },
