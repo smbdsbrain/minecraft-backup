@@ -1161,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-10-24 14:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-04-11 23:36:12 +0000"
@@ -3850,6 +3856,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-10-24 14:49:12 +0000",
       "honey_bottle": "2020-09-12 09:20:12 +0000",
       "cooked_mutton": "2020-05-25 22:38:10 +0000",
       "chorus_fruit": "2020-04-11 15:33:29 +0000",
@@ -4535,6 +4542,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2020-09-25 16:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-10-24 14:23:41 +0000"
     },
     "done": true
   },
