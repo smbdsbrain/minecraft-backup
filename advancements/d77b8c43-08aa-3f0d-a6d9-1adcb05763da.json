@@ -2899,6 +2899,7 @@
       "minecraft:spider": "2020-03-28 10:06:24 +0000",
       "minecraft:piglin_brute": "2020-09-19 14:14:15 +0000",
       "minecraft:creeper": "2020-03-28 11:04:41 +0000",
+      "minecraft:wither": "2020-10-25 10:48:22 +0000",
       "minecraft:slime": "2020-03-29 12:03:15 +0000",
       "minecraft:evoker": "2020-04-30 14:19:47 +0000",
       "minecraft:phantom": "2020-03-29 10:35:29 +0000",
@@ -3283,6 +3284,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-28 10:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-10-25 10:48:27 +0000"
     },
     "done": true
   },
