@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2020-11-07 21:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2020-04-16 19:40:10 +0000"
@@ -1519,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2020-11-07 21:19:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-03-29 11:54:10 +0000"
@@ -1909,6 +1921,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_the_recipe": "2020-04-02 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2020-11-07 21:19:42 +0000"
     },
     "done": true
   },
