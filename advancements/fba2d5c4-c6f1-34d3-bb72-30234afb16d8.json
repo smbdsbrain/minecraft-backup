@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-11-20 17:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-07-27 10:40:56 +0000"
@@ -554,6 +560,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-11 21:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-11-20 17:26:52 +0000"
     },
     "done": true
   },
@@ -1058,6 +1070,12 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2020-09-19 14:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-11-20 17:26:52 +0000"
     },
     "done": true
   },
