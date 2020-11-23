@@ -923,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-11-22 19:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2020-04-11 22:31:30 +0000"
@@ -1058,6 +1064,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2020-05-10 10:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-11-22 19:53:41 +0000"
     },
     "done": true
   },
@@ -1989,6 +2001,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2020-04-12 11:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-11-22 19:53:41 +0000"
     },
     "done": true
   },
@@ -4150,6 +4168,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2020-11-22 21:26:25 +0000",
       "textures/entity/cat/siamese.png": "2020-05-04 21:05:50 +0000"
     },
     "done": false
