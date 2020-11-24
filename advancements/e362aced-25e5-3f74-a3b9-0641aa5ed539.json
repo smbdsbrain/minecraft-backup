@@ -457,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-11-23 23:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-10 21:24:37 +0000"
@@ -893,6 +899,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-11-23 23:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-05-04 14:34:52 +0000"
@@ -995,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-11-23 23:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2020-04-10 20:15:30 +0000"
@@ -1004,6 +1022,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_the_recipe": "2020-05-05 12:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-23 22:31:12 +0000"
     },
     "done": true
   },
@@ -1307,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-11-23 23:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-04-22 06:52:31 +0000"
@@ -1445,6 +1475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-11-23 23:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2020-04-11 15:46:38 +0000"
@@ -1544,6 +1580,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2020-05-04 14:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-11-23 23:33:50 +0000"
     },
     "done": true
   },
@@ -1673,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-23 22:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-10 20:16:42 +0000"
@@ -1706,6 +1754,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-04-10 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2020-11-23 22:37:34 +0000"
     },
     "done": true
   },
@@ -1953,6 +2007,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2020-05-10 10:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-11-23 23:34:56 +0000"
     },
     "done": true
   },
@@ -2414,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-11-24 01:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2020-05-03 11:55:29 +0000"
@@ -2578,6 +2644,7 @@
       "bread": "2020-04-13 19:32:31 +0000",
       "golden_apple": "2020-05-30 13:18:11 +0000",
       "cookie": "2020-11-15 13:21:29 +0000",
+      "golden_carrot": "2020-11-23 18:06:00 +0000",
       "mushroom_stew": "2020-05-01 20:21:43 +0000",
       "cooked_salmon": "2020-04-19 14:58:56 +0000",
       "carrot": "2020-05-08 20:56:08 +0000"
@@ -2710,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-11-24 01:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-05-10 10:04:45 +0000"
@@ -2743,6 +2816,12 @@
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2020-05-10 09:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2020-11-23 23:37:12 +0000"
     },
     "done": true
   },
@@ -3071,6 +3150,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-04-12 10:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2020-11-23 23:37:34 +0000"
     },
     "done": true
   },
@@ -3416,6 +3501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-23 22:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "pufferfish_bucket": "2020-04-20 19:13:26 +0000"
@@ -3497,6 +3588,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-04-12 09:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2020-11-24 01:21:56 +0000"
     },
     "done": true
   },
@@ -3668,6 +3765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-11-23 22:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-04-11 15:50:10 +0000"
@@ -3785,6 +3888,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2020-05-20 11:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2020-11-24 01:22:12 +0000"
     },
     "done": true
   },
@@ -4169,7 +4278,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2020-11-22 21:26:25 +0000",
-      "textures/entity/cat/siamese.png": "2020-05-04 21:05:50 +0000"
+      "textures/entity/cat/siamese.png": "2020-05-04 21:05:50 +0000",
+      "textures/entity/cat/red.png": "2020-11-23 15:39:02 +0000"
     },
     "done": false
   },
