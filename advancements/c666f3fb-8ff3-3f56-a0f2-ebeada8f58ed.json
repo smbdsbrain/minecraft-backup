@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2020-11-28 14:07:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-04-02 20:12:28 +0000"
@@ -746,6 +752,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-05-07 16:54:11 +0000",
+      "minecraft:blaze": "2020-11-28 10:55:05 +0000",
       "minecraft:skeleton": "2020-03-27 20:06:17 +0000",
       "minecraft:ghast": "2020-09-19 08:28:47 +0000",
       "minecraft:vindicator": "2020-05-07 17:28:51 +0000",
@@ -756,6 +763,7 @@
       "minecraft:phantom": "2020-04-12 12:47:58 +0000",
       "minecraft:zombified_piglin": "2020-09-19 13:19:18 +0000",
       "minecraft:witch": "2020-09-24 16:38:23 +0000",
+      "minecraft:wither_skeleton": "2020-11-28 10:54:15 +0000",
       "minecraft:husk": "2020-04-16 20:58:21 +0000",
       "minecraft:cave_spider": "2020-03-30 18:24:26 +0000",
       "minecraft:piglin": "2020-09-19 08:25:25 +0000",
@@ -1051,6 +1059,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-27 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-11-28 12:45:20 +0000"
     },
     "done": true
   },
@@ -1510,6 +1524,7 @@
       "minecraft:dark_forest": "2020-04-22 17:37:52 +0000",
       "minecraft:river": "2020-03-27 19:39:02 +0000",
       "minecraft:lukewarm_ocean": "2020-09-28 18:46:47 +0000",
+      "minecraft:birch_forest_hills": "2020-11-28 14:01:17 +0000",
       "minecraft:wooded_mountains": "2020-04-23 17:14:06 +0000",
       "minecraft:wooded_hills": "2020-03-27 19:38:34 +0000",
       "minecraft:stone_shore": "2020-04-25 17:06:10 +0000",
@@ -3007,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-11-28 10:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-03-28 12:15:23 +0000"
@@ -3313,6 +3334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-11-28 12:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-03-27 19:56:40 +0000"
@@ -3376,6 +3403,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2020-04-12 17:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-11-28 12:45:20 +0000"
     },
     "done": true
   },
@@ -3514,6 +3547,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-11-08 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-11-28 14:07:45 +0000"
     },
     "done": true
   },

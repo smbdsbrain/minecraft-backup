@@ -1106,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-28 16:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2019-10-03 14:28:47 +0000"
@@ -1805,6 +1811,12 @@
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2020-09-18 20:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-28 16:02:42 +0000"
     },
     "done": true
   },
@@ -2812,6 +2824,7 @@
       "salmon": "2020-04-20 19:18:36 +0000",
       "melon_slice": "2019-09-28 13:11:08 +0000",
       "beetroot": "2019-10-01 15:49:58 +0000",
+      "golden_carrot": "2020-11-28 15:27:48 +0000",
       "cooked_chicken": "2019-09-20 15:37:01 +0000",
       "mushroom_stew": "2019-10-18 20:44:32 +0000",
       "cod": "2020-04-11 11:29:49 +0000",
@@ -3698,6 +3711,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2019-10-09 12:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-28 16:02:42 +0000"
     },
     "done": true
   },
