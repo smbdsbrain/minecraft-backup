@@ -1225,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2020-12-26 13:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/ride_strider": {
     "criteria": {
       "used_warped_fungus_on_a_stick": "2020-09-19 14:40:34 +0000"
@@ -3928,6 +3934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2020-12-26 13:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2020-03-27 11:50:39 +0000"
@@ -4221,6 +4233,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-03-29 11:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2020-12-26 13:22:02 +0000"
     },
     "done": true
   },
