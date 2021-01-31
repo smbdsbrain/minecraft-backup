@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-30 20:16:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2019-09-28 15:17:27 +0000"
@@ -452,6 +458,12 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2019-12-20 22:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-30 20:16:21 +0000"
     },
     "done": true
   },
@@ -2220,6 +2232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-30 20:16:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2021-01-02 20:03:03 +0000"
@@ -2307,6 +2325,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-09-28 15:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2021-01-30 20:16:21 +0000"
     },
     "done": true
   },
@@ -2439,6 +2463,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2019-09-28 15:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-30 20:16:21 +0000"
     },
     "done": true
   },
@@ -3045,6 +3075,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-10-13 16:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-30 20:16:21 +0000"
     },
     "done": true
   },
@@ -4164,6 +4200,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-09-28 15:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-30 20:16:21 +0000"
     },
     "done": true
   },
