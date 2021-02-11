@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-02-10 10:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-04-11 15:06:07 +0000"
@@ -2696,6 +2702,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-05-10 09:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2021-02-10 10:40:55 +0000"
     },
     "done": true
   },

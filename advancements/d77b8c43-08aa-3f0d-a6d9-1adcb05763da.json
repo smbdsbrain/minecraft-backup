@@ -2844,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2021-02-11 06:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-03-27 12:53:42 +0000"
@@ -3006,6 +3012,7 @@
       "minecraft:blaze": "2020-04-02 12:52:20 +0000",
       "minecraft:skeleton": "2020-03-28 09:43:39 +0000",
       "minecraft:elder_guardian": "2020-12-19 08:46:26 +0000",
+      "minecraft:zoglin": "2021-02-10 10:20:03 +0000",
       "minecraft:ravager": "2020-03-31 16:47:36 +0000",
       "minecraft:ghast": "2020-03-28 14:29:52 +0000",
       "minecraft:hoglin": "2020-09-19 14:18:33 +0000",
@@ -3023,6 +3030,7 @@
       "minecraft:witch": "2020-03-30 14:43:04 +0000",
       "minecraft:wither_skeleton": "2020-04-02 12:52:26 +0000",
       "minecraft:husk": "2020-03-29 10:34:35 +0000",
+      "minecraft:ender_dragon": "2021-02-10 15:29:02 +0000",
       "minecraft:shulker": "2020-03-29 09:07:25 +0000",
       "minecraft:cave_spider": "2020-06-04 15:46:14 +0000",
       "minecraft:piglin": "2020-09-19 14:12:17 +0000",
@@ -3030,11 +3038,12 @@
       "minecraft:silverfish": "2020-06-04 15:48:36 +0000",
       "minecraft:stray": "2020-06-05 11:20:39 +0000",
       "minecraft:endermite": "2020-10-03 10:40:18 +0000",
+      "minecraft:vex": "2021-02-10 12:54:51 +0000",
       "minecraft:zombie": "2020-03-28 10:21:34 +0000",
       "minecraft:drowned": "2020-03-27 12:51:36 +0000",
       "minecraft:zombie_villager": "2020-03-30 13:59:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {

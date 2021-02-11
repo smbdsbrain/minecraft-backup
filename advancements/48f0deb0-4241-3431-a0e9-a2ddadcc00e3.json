@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-02-10 10:39:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-09-28 15:16:55 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2019-09-28 17:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-10 10:24:15 +0000"
     },
     "done": true
   },
@@ -1101,6 +1113,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-02-08 18:15:14 +0000",
       "minecraft:nether_wastes": "2021-01-04 11:46:22 +0000",
+      "minecraft:soul_sand_valley": "2021-02-10 13:37:53 +0000",
       "minecraft:warped_forest": "2021-02-08 18:07:55 +0000"
     },
     "done": false
@@ -1396,6 +1409,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2019-11-01 00:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2021-02-10 10:39:56 +0000"
     },
     "done": true
   },
@@ -2084,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2021-02-10 10:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-10-01 20:14:12 +0000"
@@ -2255,6 +2280,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2021-02-08 18:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-10 10:24:15 +0000"
     },
     "done": true
   },
@@ -2624,6 +2655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-10 10:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-10-01 20:18:15 +0000"
@@ -2853,6 +2890,7 @@
       "minecraft:enderman": "2019-10-03 02:56:29 +0000",
       "minecraft:silverfish": "2019-10-15 13:09:49 +0000",
       "minecraft:stray": "2019-12-20 23:05:53 +0000",
+      "minecraft:vex": "2021-02-10 12:56:45 +0000",
       "minecraft:zombie": "2019-09-20 18:26:20 +0000",
       "minecraft:drowned": "2019-09-28 15:38:52 +0000",
       "minecraft:zombie_villager": "2019-10-11 20:22:44 +0000"
@@ -3114,6 +3152,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2019-09-28 15:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2021-02-10 10:24:15 +0000"
     },
     "done": true
   },
@@ -3413,6 +3457,7 @@
       "minecraft:jungle": "2019-09-28 14:54:55 +0000",
       "minecraft:birch_forest": "2019-10-12 11:59:56 +0000",
       "minecraft:jungle_hills": "2019-09-28 16:11:02 +0000",
+      "minecraft:snowy_beach": "2021-02-10 16:29:40 +0000",
       "minecraft:bamboo_jungle": "2019-10-11 16:40:54 +0000",
       "minecraft:warm_ocean": "2019-09-28 15:56:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-09-28 15:56:02 +0000",
