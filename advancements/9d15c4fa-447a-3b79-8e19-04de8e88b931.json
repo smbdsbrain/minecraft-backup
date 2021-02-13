@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-02-12 19:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-11-22 14:38:46 +0000"
@@ -745,6 +751,7 @@
       "minecraft:pillager": "2019-11-25 17:23:23 +0000",
       "minecraft:skeleton": "2019-11-22 14:14:44 +0000",
       "minecraft:ravager": "2020-03-26 13:51:06 +0000",
+      "minecraft:ghast": "2021-02-12 20:13:11 +0000",
       "minecraft:vindicator": "2019-12-11 17:01:34 +0000",
       "minecraft:magma_cube": "2020-04-19 12:35:31 +0000",
       "minecraft:spider": "2019-11-22 14:28:31 +0000",
@@ -752,6 +759,7 @@
       "minecraft:slime": "2020-06-22 18:17:04 +0000",
       "minecraft:witch": "2020-07-26 18:49:29 +0000",
       "minecraft:wither_skeleton": "2020-04-19 12:24:59 +0000",
+      "minecraft:piglin": "2021-02-12 19:27:49 +0000",
       "minecraft:enderman": "2019-11-22 14:56:12 +0000",
       "minecraft:zombie": "2019-11-22 14:56:35 +0000",
       "minecraft:drowned": "2020-07-02 18:08:03 +0000"
@@ -1786,7 +1794,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-02-08 18:35:21 +0000",
       "minecraft:nether_wastes": "2021-02-08 18:40:40 +0000",
-      "minecraft:warped_forest": "2021-02-08 18:07:56 +0000"
+      "minecraft:warped_forest": "2021-02-08 18:07:56 +0000",
+      "minecraft:basalt_deltas": "2021-02-12 19:54:55 +0000"
     },
     "done": false
   },
