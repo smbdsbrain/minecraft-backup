@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-10-07 15:50:44 +0000"
@@ -529,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2019-10-07 14:50:51 +0000"
@@ -571,6 +583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-10-06 13:43:34 +0000"
@@ -598,6 +616,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2019-10-06 13:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
     },
     "done": true
   },
@@ -988,6 +1012,7 @@
       "minecraft:skeleton": "2019-10-05 16:15:54 +0000",
       "minecraft:spider": "2019-10-05 16:15:26 +0000",
       "minecraft:creeper": "2019-10-06 13:53:05 +0000",
+      "minecraft:slime": "2021-02-18 19:37:56 +0000",
       "minecraft:phantom": "2020-06-08 12:10:09 +0000",
       "minecraft:husk": "2019-10-05 15:55:25 +0000",
       "minecraft:enderman": "2021-02-13 21:19:19 +0000",
@@ -1319,6 +1344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-10-05 15:57:22 +0000"
@@ -1514,6 +1545,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-10-07 15:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
     },
     "done": true
   },
@@ -2261,6 +2298,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-06-08 11:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-18 20:08:02 +0000"
     },
     "done": true
   },
