@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2019-11-22 15:06:35 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-11-22 14:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
     },
     "done": true
   },
@@ -1676,6 +1688,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-02-21 20:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2019-11-22 17:31:46 +0000"
@@ -2435,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-11-27 04:25:39 +0000"
@@ -2474,6 +2498,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2019-11-22 17:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
     },
     "done": true
   },
@@ -2533,7 +2563,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2020-04-17 14:01:33 +0000"
+      "minecraft:sheep": "2020-04-17 14:01:33 +0000",
+      "minecraft:cow": "2021-02-21 23:17:58 +0000"
     },
     "done": false
   },
@@ -3005,6 +3036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-11-23 13:38:21 +0000"
@@ -3221,6 +3258,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-22 14:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
     },
     "done": true
   },
@@ -3722,6 +3765,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/tabby.png": "2021-02-21 23:11:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-14 14:33:25 +0000"
@@ -3815,6 +3864,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2019-11-27 04:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
     },
     "done": true
   },
