@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2021-02-28 12:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-11-22 14:12:57 +0000"
@@ -811,7 +817,8 @@
       "minecraft:piglin": "2021-02-12 19:27:49 +0000",
       "minecraft:enderman": "2019-11-22 14:56:12 +0000",
       "minecraft:zombie": "2019-11-22 14:56:35 +0000",
-      "minecraft:drowned": "2020-07-02 18:08:03 +0000"
+      "minecraft:drowned": "2020-07-02 18:08:03 +0000",
+      "minecraft:zombie_villager": "2021-02-28 09:46:32 +0000"
     },
     "done": false
   },
@@ -2622,6 +2629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2021-02-28 12:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2020-04-17 14:01:33 +0000",
@@ -3082,6 +3095,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-12-06 13:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2021-02-28 12:40:28 +0000"
     },
     "done": true
   },
