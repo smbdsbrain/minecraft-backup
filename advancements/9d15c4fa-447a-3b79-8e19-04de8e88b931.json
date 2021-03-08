@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2021-03-07 23:39:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2019-11-25 17:21:17 +0000",
@@ -1062,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-03-07 14:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-10 16:43:27 +0000"
@@ -1146,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-03-07 14:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-11-22 17:26:02 +0000"
@@ -1191,6 +1209,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-10 16:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-03-07 16:47:12 +0000"
     },
     "done": true
   },
@@ -1831,6 +1855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2021-03-07 08:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-10 16:43:27 +0000"
@@ -2306,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-03-07 16:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2021-02-23 21:42:00 +0000"
@@ -2650,7 +2686,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2020-04-17 14:01:33 +0000",
-      "minecraft:cow": "2021-02-21 23:17:58 +0000"
+      "minecraft:cow": "2021-02-21 23:17:58 +0000",
+      "minecraft:chicken": "2021-03-07 14:37:32 +0000"
     },
     "done": false
   },
@@ -2885,6 +2922,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2019-12-24 17:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2021-03-07 08:41:31 +0000"
     },
     "done": true
   },
@@ -3812,6 +3855,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-11-27 04:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-03-07 14:04:39 +0000"
     },
     "done": true
   },
