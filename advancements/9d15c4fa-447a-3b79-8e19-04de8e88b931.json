@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-03-16 18:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-02-24 12:59:48 +0000"
@@ -1362,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-03-16 18:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-02-08 17:55:03 +0000"
@@ -1431,6 +1443,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2019-12-10 16:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-03-16 18:25:43 +0000"
     },
     "done": true
   },
@@ -1684,11 +1702,17 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-12-22 15:50:47 +0000",
       "minecraft:jungle_edge": "2019-11-22 13:46:15 +0000",
+      "minecraft:snowy_mountains": "2021-03-16 14:31:32 +0000",
       "minecraft:mountains": "2020-01-03 08:22:22 +0000",
       "minecraft:forest": "2019-11-22 13:44:48 +0000",
+      "minecraft:taiga": "2021-03-16 15:07:46 +0000",
       "minecraft:desert_hills": "2019-12-06 13:46:18 +0000",
       "minecraft:deep_cold_ocean": "2019-12-22 15:50:53 +0000",
+      "minecraft:snowy_tundra": "2021-03-16 14:31:27 +0000",
+      "minecraft:taiga_hills": "2021-03-16 14:25:32 +0000",
       "minecraft:desert": "2019-11-22 13:44:06 +0000",
+      "minecraft:frozen_river": "2021-03-16 14:31:26 +0000",
+      "minecraft:deep_frozen_ocean": "2021-03-16 14:21:04 +0000",
       "minecraft:jungle": "2019-11-22 13:46:36 +0000",
       "minecraft:birch_forest": "2020-01-03 08:24:45 +0000",
       "minecraft:jungle_hills": "2019-11-22 13:46:55 +0000",
@@ -2456,6 +2480,7 @@
       "golden_carrot": "2021-02-08 18:05:03 +0000",
       "cooked_chicken": "2019-12-10 16:43:29 +0000",
       "mushroom_stew": "2019-11-25 17:18:45 +0000",
+      "cod": "2021-03-16 13:50:46 +0000",
       "cooked_salmon": "2021-02-17 19:54:57 +0000",
       "carrot": "2020-04-19 18:41:42 +0000"
     },
