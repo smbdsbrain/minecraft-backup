@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2020-05-13 09:36:20 +0000"
@@ -230,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-17 19:21:57 +0000"
@@ -269,6 +281,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-04-17 20:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-08-03 18:48:53 +0000"
     },
     "done": true
   },
@@ -392,6 +410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
@@ -418,6 +442,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-17 20:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-08-03 18:38:53 +0000"
     },
     "done": true
   },
@@ -505,13 +535,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-17 19:21:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-17 19:21:57 +0000"
     },
@@ -520,6 +550,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-05-13 09:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-08-03 19:29:16 +0000"
     },
     "done": true
   },
@@ -544,6 +580,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -661,6 +703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-05-13 09:38:23 +0000"
@@ -670,6 +718,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-04-17 20:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2021-08-03 19:03:31 +0000"
     },
     "done": true
   },
@@ -706,12 +760,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-04-17 20:09:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2020-04-17 20:14:09 +0000"
     },
     "done": true
   },
@@ -760,6 +808,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-04-17 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -901,13 +955,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-05-13 09:38:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-05-13 09:38:23 +0000"
     },
@@ -1058,6 +1112,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-08-03 18:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2021-08-03 18:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2020-05-13 09:36:25 +0000"
@@ -1112,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2021-08-03 18:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-05-13 13:21:58 +0000"
@@ -1157,6 +1229,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2020-05-13 15:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -1211,6 +1289,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-13 09:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -1292,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2021-08-03 18:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2020-04-17 19:31:30 +0000"
@@ -1334,9 +1424,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-08-03 19:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-05-13 09:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -1361,12 +1463,6 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-04-17 20:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2020-04-17 19:31:48 +0000"
     },
     "done": true
   },
@@ -1406,6 +1502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
@@ -1421,6 +1523,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2020-05-13 09:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -1481,12 +1589,6 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-04-17 20:33:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2020-05-13 09:45:23 +0000"
     },
     "done": true
   },
@@ -1610,12 +1712,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_logs": "2020-04-17 19:37:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-05-13 09:35:14 +0000"
@@ -1631,6 +1727,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-04-17 19:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
     },
     "done": true
   },
@@ -1686,24 +1788,34 @@
     "criteria": {
       "minecraft:jungle_edge": "2020-04-17 19:17:01 +0000",
       "minecraft:cold_ocean": "2020-05-13 10:16:15 +0000",
+      "minecraft:snowy_mountains": "2021-08-03 18:30:59 +0000",
       "minecraft:forest": "2020-04-17 19:45:52 +0000",
       "minecraft:mountains": "2020-04-17 19:29:32 +0000",
       "minecraft:taiga": "2020-05-13 13:01:43 +0000",
       "minecraft:desert_hills": "2020-05-13 04:44:04 +0000",
       "minecraft:deep_cold_ocean": "2020-05-25 11:47:43 +0000",
+      "minecraft:snowy_tundra": "2021-08-03 18:30:19 +0000",
+      "minecraft:taiga_hills": "2021-08-03 18:32:09 +0000",
       "minecraft:desert": "2020-04-17 19:21:02 +0000",
+      "minecraft:frozen_river": "2021-08-03 18:30:38 +0000",
       "minecraft:jungle": "2020-04-17 19:50:58 +0000",
       "minecraft:birch_forest": "2020-05-13 16:17:52 +0000",
       "minecraft:jungle_hills": "2020-04-17 19:14:47 +0000",
+      "minecraft:snowy_beach": "2021-08-03 18:29:38 +0000",
       "minecraft:bamboo_jungle": "2020-05-13 10:49:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-05-13 16:46:29 +0000",
       "minecraft:savanna_plateau": "2020-04-17 19:28:15 +0000",
       "minecraft:beach": "2020-05-13 10:07:12 +0000",
       "minecraft:dark_forest": "2020-05-25 11:51:11 +0000",
       "minecraft:river": "2020-04-17 19:27:38 +0000",
+      "minecraft:lukewarm_ocean": "2021-08-03 18:27:31 +0000",
+      "minecraft:snowy_taiga": "2021-08-03 18:30:45 +0000",
       "minecraft:birch_forest_hills": "2020-05-13 16:42:03 +0000",
       "minecraft:wooded_mountains": "2020-04-17 19:31:46 +0000",
       "minecraft:wooded_hills": "2020-05-13 10:07:32 +0000",
+      "minecraft:giant_tree_taiga_hills": "2021-08-03 18:37:36 +0000",
+      "minecraft:stone_shore": "2021-08-03 18:29:16 +0000",
+      "minecraft:snowy_taiga_hills": "2021-08-03 18:33:54 +0000",
       "minecraft:savanna": "2020-04-17 19:17:43 +0000",
       "minecraft:plains": "2020-04-17 19:45:21 +0000"
     },
@@ -1718,6 +1830,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-17 20:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-08-03 18:39:16 +0000"
     },
     "done": true
   },
@@ -1754,6 +1872,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2021-08-03 18:38:53 +0000"
     },
     "done": true
   },
@@ -1877,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-03 19:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
@@ -1894,6 +2024,12 @@
       "has_planks": "2020-04-17 20:15:07 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-08-03 18:48:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2009,5 +2145,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2584
 }
