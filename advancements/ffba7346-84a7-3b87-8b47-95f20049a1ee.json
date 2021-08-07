@@ -83,9 +83,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2021-08-06 18:31:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-08-06 18:20:54 +0000"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-13 09:29:28 +0000"
@@ -245,6 +263,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-05-13 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
     },
     "done": true
   },
@@ -389,6 +413,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
     },
     "done": true
   },
@@ -593,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-08-05 18:47:42 +0000"
@@ -761,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
@@ -776,6 +818,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-08-05 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
     },
     "done": true
   },
@@ -1074,6 +1128,7 @@
       "minecraft:jungle_hills": "2020-04-17 19:14:47 +0000",
       "minecraft:snowy_beach": "2021-08-03 18:29:38 +0000",
       "minecraft:bamboo_jungle": "2020-05-13 10:49:13 +0000",
+      "minecraft:warm_ocean": "2021-08-06 18:49:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-05-13 16:46:29 +0000",
       "minecraft:savanna_plateau": "2020-04-17 19:28:15 +0000",
       "minecraft:beach": "2020-05-13 10:07:12 +0000",
@@ -1210,9 +1265,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-08-05 19:23:23 +0000",
       "minecraft:soul_sand_valley": "2021-08-03 18:48:32 +0000",
-      "minecraft:nether_wastes": "2021-08-05 19:17:53 +0000"
+      "minecraft:nether_wastes": "2021-08-05 19:17:53 +0000",
+      "minecraft:warped_forest": "2021-08-06 18:27:23 +0000",
+      "minecraft:basalt_deltas": "2021-08-06 17:42:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -1310,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-08-06 19:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-17 20:05:39 +0000"
@@ -1367,6 +1430,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-08-05 20:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-08-06 19:12:06 +0000"
     },
     "done": true
   },
@@ -1472,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-08-06 19:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-04-17 19:20:49 +0000"
@@ -1540,12 +1615,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-08-06 20:16:48 +0000",
       "chicken": "2020-04-17 19:31:34 +0000",
       "beef": "2020-04-17 19:45:43 +0000",
       "baked_potato": "2020-04-17 19:50:01 +0000",
       "apple": "2020-05-13 13:40:24 +0000",
       "bread": "2020-04-17 19:42:34 +0000",
-      "golden_carrot": "2020-05-13 13:53:58 +0000"
+      "golden_carrot": "2020-05-13 13:53:58 +0000",
+      "cooked_rabbit": "2021-08-06 19:31:28 +0000"
     },
     "done": false
   },
@@ -1570,6 +1647,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-04-17 20:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2021-08-06 18:31:10 +0000"
     },
     "done": true
   },
@@ -1705,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-08-06 18:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-05-13 16:44:38 +0000"
@@ -1792,6 +1881,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-17 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
     },
     "done": true
   },
@@ -1912,6 +2007,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2020-05-13 09:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:15:03 +0000"
     },
     "done": true
   },
@@ -2047,6 +2148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-08-06 19:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-04-17 19:20:49 +0000"
@@ -2110,6 +2217,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-04-17 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2021-08-06 19:16:15 +0000"
     },
     "done": true
   },
@@ -2293,6 +2406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-08-06 18:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-08-03 19:44:42 +0000"
@@ -2443,6 +2562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-08-06 19:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2021-08-03 18:38:53 +0000"
@@ -2470,6 +2595,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-05-13 09:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-08-06 18:46:03 +0000"
     },
     "done": true
   },
@@ -2530,6 +2661,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2020-05-13 13:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-08-06 19:36:46 +0000"
     },
     "done": true
   },
