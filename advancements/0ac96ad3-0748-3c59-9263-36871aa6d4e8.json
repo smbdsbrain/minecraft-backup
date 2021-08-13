@@ -474,6 +474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2021-08-12 13:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-14 14:54:25 +0000"
@@ -700,6 +706,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-13 13:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-08-12 13:43:01 +0000"
     },
     "done": true
   },
@@ -1607,6 +1619,7 @@
       "minecraft:river": "2020-04-13 10:34:00 +0000",
       "minecraft:lukewarm_ocean": "2020-05-12 03:54:45 +0000",
       "minecraft:snowy_taiga": "2020-05-12 04:03:55 +0000",
+      "minecraft:birch_forest_hills": "2021-08-12 17:45:39 +0000",
       "minecraft:wooded_mountains": "2020-04-14 05:56:43 +0000",
       "minecraft:bamboo_jungle_hills": "2020-05-14 04:35:42 +0000",
       "minecraft:wooded_hills": "2020-04-13 11:45:44 +0000",
@@ -3530,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-08-12 13:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-04-13 10:46:46 +0000"
@@ -3728,6 +3747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2021-08-12 07:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-04-14 11:47:50 +0000"
@@ -3863,6 +3888,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-04-13 19:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2021-08-12 07:54:20 +0000"
     },
     "done": true
   },

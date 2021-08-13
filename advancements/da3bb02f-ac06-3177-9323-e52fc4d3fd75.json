@@ -838,6 +838,7 @@
       "minecraft:zombified_piglin": "2020-04-24 19:47:09 +0000",
       "minecraft:witch": "2020-04-30 12:31:27 +0000",
       "minecraft:wither_skeleton": "2020-04-24 18:44:58 +0000",
+      "minecraft:husk": "2021-08-12 08:00:38 +0000",
       "minecraft:shulker": "2020-04-24 12:30:21 +0000",
       "minecraft:piglin": "2020-09-25 08:00:34 +0000",
       "minecraft:enderman": "2020-04-21 21:20:54 +0000",
@@ -1268,6 +1269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2021-08-12 17:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-22 09:32:05 +0000"
@@ -1283,6 +1290,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2020-05-13 12:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2021-08-12 17:12:15 +0000"
     },
     "done": true
   },
@@ -2416,6 +2429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-08-12 15:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2020-04-22 19:40:46 +0000"
@@ -2584,6 +2603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2021-08-13 03:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2021-08-10 12:54:34 +0000"
@@ -2593,6 +2618,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-09-30 05:35:42 +0000",
+      "cooked_mutton": "2021-08-12 07:32:16 +0000",
       "cooked_beef": "2020-04-22 13:21:28 +0000",
       "baked_potato": "2020-04-22 22:08:27 +0000",
       "apple": "2020-04-22 13:13:10 +0000",
@@ -2754,6 +2780,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-04-22 12:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-08-12 15:05:12 +0000"
     },
     "done": true
   },
@@ -3544,6 +3576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-08-12 15:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-22 09:32:05 +0000"
@@ -3565,6 +3603,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2020-04-22 12:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-08-12 17:12:15 +0000"
     },
     "done": true
   },
@@ -3745,6 +3789,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2020-04-21 22:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-08-12 17:12:15 +0000"
     },
     "done": true
   },
@@ -4042,6 +4092,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-08-13 06:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-21 15:28:49 +0000"
@@ -4333,6 +4389,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-24 20:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2021-08-13 06:51:24 +0000"
     },
     "done": true
   },
