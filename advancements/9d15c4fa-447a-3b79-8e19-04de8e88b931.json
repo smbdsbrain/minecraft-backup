@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-08-15 21:03:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2019-11-27 04:25:39 +0000"
@@ -868,8 +874,10 @@
       "minecraft:witch": "2020-07-26 18:49:29 +0000",
       "minecraft:wither_skeleton": "2020-04-19 12:24:59 +0000",
       "minecraft:husk": "2021-02-23 20:10:49 +0000",
+      "minecraft:cave_spider": "2021-08-15 22:12:45 +0000",
       "minecraft:piglin": "2021-02-12 19:27:49 +0000",
       "minecraft:enderman": "2019-11-22 14:56:12 +0000",
+      "minecraft:silverfish": "2021-08-15 15:58:36 +0000",
       "minecraft:zombie": "2019-11-22 14:56:35 +0000",
       "minecraft:drowned": "2020-07-02 18:08:03 +0000",
       "minecraft:zombie_villager": "2021-02-28 09:46:32 +0000"
@@ -1086,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2021-08-15 15:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2019-11-22 17:31:46 +0000"
@@ -1293,6 +1307,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2021-08-11 13:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-08-15 16:14:49 +0000"
     },
     "done": true
   },
@@ -1545,6 +1565,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-11-22 14:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-08-15 21:03:54 +0000"
     },
     "done": true
   },
@@ -1966,6 +1992,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2020-03-26 09:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2021-08-15 21:57:13 +0000"
     },
     "done": true
   },
@@ -2749,6 +2781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2021-08-15 15:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-12-06 15:45:25 +0000"
@@ -3073,6 +3111,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2019-12-06 13:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-08-15 21:03:54 +0000"
     },
     "done": true
   },
