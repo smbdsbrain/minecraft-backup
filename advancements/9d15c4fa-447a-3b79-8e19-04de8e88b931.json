@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2021-08-16 17:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2019-11-27 04:29:50 +0000"
@@ -860,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2021-08-16 17:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-11-25 17:23:23 +0000",
@@ -878,6 +890,7 @@
       "minecraft:piglin": "2021-02-12 19:27:49 +0000",
       "minecraft:enderman": "2019-11-22 14:56:12 +0000",
       "minecraft:silverfish": "2021-08-15 15:58:36 +0000",
+      "minecraft:endermite": "2021-08-16 18:51:11 +0000",
       "minecraft:zombie": "2019-11-22 14:56:35 +0000",
       "minecraft:drowned": "2020-07-02 18:08:03 +0000",
       "minecraft:zombie_villager": "2021-02-28 09:46:32 +0000"
@@ -1718,6 +1731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-08-16 17:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2021-02-13 11:57:06 +0000"
@@ -2173,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-08-16 17:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-03-26 14:44:13 +0000",
@@ -2413,6 +2438,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-12-14 18:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-08-16 17:07:14 +0000"
     },
     "done": true
   },
@@ -3294,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-08-16 20:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2019-11-23 13:47:13 +0000"
@@ -3954,6 +3991,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2019-12-14 17:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-08-16 16:51:44 +0000"
     },
     "done": true
   },
