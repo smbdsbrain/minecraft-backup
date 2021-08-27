@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-04-17 21:02:59 +0000"
@@ -590,6 +596,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2020-09-19 14:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
     },
     "done": true
   },
@@ -1253,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-24 23:46:26 +0000"
@@ -1476,6 +1494,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-08-10 11:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
     },
     "done": true
   },
@@ -3137,6 +3161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-08-27 02:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-09-25 10:47:17 +0000"
@@ -3908,6 +3938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2021-08-13 13:43:31 +0000"
@@ -3992,6 +4028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-04-17 21:45:23 +0000"
@@ -4001,6 +4043,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2020-09-17 14:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2021-08-26 16:43:10 +0000"
     },
     "done": true
   },
@@ -4670,6 +4718,7 @@
       "cooked_porkchop": "2020-10-24 14:49:12 +0000",
       "honey_bottle": "2020-09-12 09:20:12 +0000",
       "cooked_mutton": "2020-05-25 22:38:10 +0000",
+      "sweet_berries": "2021-08-27 01:59:28 +0000",
       "chorus_fruit": "2020-04-11 15:33:29 +0000",
       "baked_potato": "2020-04-10 21:09:41 +0000",
       "beef": "2020-07-28 22:34:16 +0000",
@@ -5058,6 +5107,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-08-06 20:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-08-26 20:20:01 +0000"
     },
     "done": true
   },
@@ -5664,6 +5719,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-09-19 14:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2021-08-26 16:43:26 +0000"
     },
     "done": true
   },
