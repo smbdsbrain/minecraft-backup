@@ -587,6 +587,7 @@
       "minecraft:vindicator": "2020-05-13 16:22:26 +0000",
       "minecraft:spider": "2020-05-13 09:45:57 +0000",
       "minecraft:creeper": "2020-05-13 14:01:53 +0000",
+      "minecraft:slime": "2021-08-29 16:17:37 +0000",
       "minecraft:phantom": "2020-05-13 09:28:16 +0000",
       "minecraft:zombified_piglin": "2021-08-07 19:55:21 +0000",
       "minecraft:witch": "2020-05-13 16:29:57 +0000",
@@ -813,6 +814,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-08-05 20:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-08-29 16:17:38 +0000"
     },
     "done": true
   },
@@ -1146,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-08-29 16:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-17 20:05:39 +0000"
@@ -1193,6 +1206,7 @@
       "minecraft:giant_tree_taiga_hills": "2021-08-03 18:37:36 +0000",
       "minecraft:stone_shore": "2021-08-03 18:29:16 +0000",
       "minecraft:mushroom_field_shore": "2021-08-07 19:09:18 +0000",
+      "minecraft:swamp": "2021-08-29 16:13:00 +0000",
       "minecraft:snowy_taiga_hills": "2021-08-03 18:33:54 +0000",
       "minecraft:savanna": "2020-04-17 19:17:43 +0000",
       "minecraft:plains": "2020-04-17 19:45:21 +0000"
@@ -2539,6 +2553,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-05-13 16:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-08-29 16:17:38 +0000"
     },
     "done": true
   },
