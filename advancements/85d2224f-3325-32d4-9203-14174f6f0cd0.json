@@ -67,6 +67,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2021-08-30 07:31:30 +0000",
       "carrot": "2021-08-11 16:25:25 +0000"
     },
     "done": false
@@ -115,6 +116,8 @@
       "minecraft:desert": "2020-05-15 05:15:57 +0000",
       "minecraft:jungle": "2020-05-15 05:15:19 +0000",
       "minecraft:jungle_hills": "2020-05-15 05:14:38 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-08-30 07:36:01 +0000",
+      "minecraft:savanna_plateau": "2021-08-30 07:32:37 +0000",
       "minecraft:beach": "2021-08-10 14:37:34 +0000",
       "minecraft:river": "2020-05-15 05:15:55 +0000",
       "minecraft:wooded_hills": "2020-05-15 05:16:39 +0000",
@@ -137,10 +140,19 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-08-30 07:34:03 +0000",
       "minecraft:nether_wastes": "2021-08-19 11:29:31 +0000",
-      "minecraft:warped_forest": "2021-08-19 11:29:51 +0000"
+      "minecraft:soul_sand_valley": "2021-08-30 07:35:21 +0000",
+      "minecraft:warped_forest": "2021-08-19 11:29:51 +0000",
+      "minecraft:basalt_deltas": "2021-08-30 07:33:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2021-08-30 07:35:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
