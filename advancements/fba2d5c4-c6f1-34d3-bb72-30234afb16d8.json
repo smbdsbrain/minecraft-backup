@@ -2879,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/arbalistic": {
+    "criteria": {
+      "arbalistic": "2021-08-31 11:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2021-08-22 19:17:40 +0000"
