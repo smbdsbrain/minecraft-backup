@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2021-09-05 18:18:23 +0000",
+      "minecraft:jungle": "2021-09-05 18:18:55 +0000",
+      "minecraft:savanna_plateau": "2021-09-05 18:19:59 +0000",
+      "minecraft:savanna": "2021-09-05 18:18:42 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
