@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-09-15 14:46:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-11-22 14:07:52 +0000"
@@ -551,6 +557,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-08-10 18:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2021-09-15 14:46:35 +0000"
     },
     "done": true
   },
@@ -2864,6 +2876,7 @@
       "minecraft:spider": "2019-11-22 14:28:31 +0000",
       "minecraft:creeper": "2019-12-19 14:31:11 +0000",
       "minecraft:slime": "2020-06-22 18:17:04 +0000",
+      "minecraft:phantom": "2021-09-15 13:37:38 +0000",
       "minecraft:witch": "2020-07-26 18:49:29 +0000",
       "minecraft:wither_skeleton": "2020-04-19 12:24:59 +0000",
       "minecraft:husk": "2021-02-23 20:10:49 +0000",
