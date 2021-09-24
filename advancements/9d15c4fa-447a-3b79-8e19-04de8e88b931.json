@@ -2199,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2021-09-23 11:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-04-20 09:12:21 +0000"
@@ -2949,6 +2955,7 @@
       "minecraft:skeleton": "2019-11-22 14:14:44 +0000",
       "minecraft:ravager": "2020-03-26 13:51:06 +0000",
       "minecraft:ghast": "2021-02-12 20:13:11 +0000",
+      "minecraft:guardian": "2021-09-23 12:56:41 +0000",
       "minecraft:vindicator": "2019-12-11 17:01:34 +0000",
       "minecraft:magma_cube": "2020-04-19 12:35:31 +0000",
       "minecraft:spider": "2019-11-22 14:28:31 +0000",
@@ -4043,6 +4050,7 @@
       "melon_slice": "2019-12-11 17:02:24 +0000",
       "golden_carrot": "2021-02-08 18:05:03 +0000",
       "cooked_chicken": "2019-12-10 16:43:29 +0000",
+      "enchanted_golden_apple": "2021-09-23 10:58:21 +0000",
       "mushroom_stew": "2019-11-25 17:18:45 +0000",
       "cod": "2021-03-16 13:50:46 +0000",
       "cooked_salmon": "2021-02-17 19:54:57 +0000",
@@ -4596,6 +4604,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-09-23 13:24:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2021-02-21 21:08:38 +0000"
@@ -4947,6 +4961,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-04-17 14:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-09-23 10:58:03 +0000"
     },
     "done": true
   },
