@@ -5146,7 +5146,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/tabby.png": "2021-02-21 23:11:40 +0000"
+      "textures/entity/cat/tabby.png": "2021-02-21 23:11:40 +0000",
+      "textures/entity/cat/all_black.png": "2021-10-01 20:13:56 +0000"
     },
     "done": false
   },
