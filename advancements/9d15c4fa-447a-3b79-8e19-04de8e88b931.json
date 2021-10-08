@@ -1727,6 +1727,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2021-10-07 16:04:23 +0000",
       "minecraft:pig": "2021-03-12 17:41:15 +0000",
       "minecraft:sheep": "2020-04-17 14:01:33 +0000",
       "minecraft:cow": "2021-02-21 23:17:58 +0000",
@@ -4204,6 +4205,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-10-07 14:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-12-02 06:45:06 +0000"
@@ -4430,6 +4437,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-02-11 18:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-10-07 14:44:50 +0000"
     },
     "done": true
   },
@@ -5284,10 +5297,12 @@
       "textures/entity/cat/tabby.png": "2021-02-21 23:11:40 +0000",
       "textures/entity/cat/white.png": "2021-10-04 19:32:29 +0000",
       "textures/entity/cat/black.png": "2021-10-04 19:32:23 +0000",
+      "textures/entity/cat/siamese.png": "2021-10-07 16:04:20 +0000",
       "textures/entity/cat/ragdoll.png": "2021-10-04 20:03:02 +0000",
       "textures/entity/cat/british_shorthair.png": "2021-10-04 19:23:10 +0000",
       "textures/entity/cat/all_black.png": "2021-10-01 20:13:56 +0000",
-      "textures/entity/cat/persian.png": "2021-10-04 19:22:02 +0000"
+      "textures/entity/cat/persian.png": "2021-10-04 19:22:02 +0000",
+      "textures/entity/cat/calico.png": "2021-10-07 16:04:43 +0000"
     },
     "done": false
   },
