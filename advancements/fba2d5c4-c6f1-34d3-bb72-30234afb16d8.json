@@ -4546,6 +4546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2021-11-12 16:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/spyglass_at_dragon": {
     "criteria": {
       "spyglass_at_dragon": "2021-08-10 09:56:17 +0000"
