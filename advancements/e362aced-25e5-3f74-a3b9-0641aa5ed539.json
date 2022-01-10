@@ -2411,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-01-09 19:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2020-04-21 15:31:12 +0000"
@@ -2749,6 +2755,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-01-09 16:01:31 +0000",
       "honey_bottle": "2020-04-14 18:08:04 +0000",
       "cooked_mutton": "2020-04-10 20:46:09 +0000",
       "sweet_berries": "2022-01-08 21:43:16 +0000",
@@ -3048,6 +3055,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2020-05-08 21:01:10 +0000",
+      "minecraft:sheep": "2022-01-09 15:51:15 +0000",
       "minecraft:mooshroom": "2020-04-11 23:19:23 +0000",
       "minecraft:cow": "2020-04-11 22:19:40 +0000",
       "minecraft:wolf": "2020-05-01 15:13:18 +0000",
@@ -4518,6 +4526,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-12 09:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-01-09 15:19:41 +0000"
     },
     "done": true
   },
