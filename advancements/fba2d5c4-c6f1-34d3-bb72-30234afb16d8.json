@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2022-01-10 19:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-01-08 14:09:30 +0000"
@@ -452,6 +458,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-01-09 13:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2022-01-10 19:30:49 +0000"
     },
     "done": true
   },
@@ -650,6 +662,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2022-01-09 14:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-01-10 19:30:10 +0000"
     },
     "done": true
   },
@@ -911,6 +929,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-01-10 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-01-10 19:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-01-08 13:13:19 +0000"
@@ -995,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-01-10 19:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-01-08 16:44:52 +0000"
@@ -1022,6 +1058,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-01-08 16:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-01-10 19:30:48 +0000"
     },
     "done": true
   },
@@ -1082,6 +1124,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2022-01-08 18:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2022-01-10 19:37:52 +0000"
     },
     "done": true
   },
@@ -1538,6 +1586,8 @@
       "minecraft:birch_forest": "2022-01-08 14:38:49 +0000",
       "minecraft:windswept_hills": "2022-01-08 18:27:33 +0000",
       "minecraft:beach": "2022-01-08 17:38:33 +0000",
+      "minecraft:stony_peaks": "2022-01-10 19:29:07 +0000",
+      "minecraft:sparse_jungle": "2022-01-10 19:33:23 +0000",
       "minecraft:river": "2022-01-08 12:53:40 +0000",
       "minecraft:stony_shore": "2022-01-08 16:57:27 +0000",
       "minecraft:dripstone_caves": "2022-01-08 18:51:31 +0000",
@@ -1546,12 +1596,14 @@
       "minecraft:jagged_peaks": "2022-01-08 14:31:21 +0000",
       "minecraft:cold_ocean": "2022-01-08 17:38:39 +0000",
       "minecraft:forest": "2022-01-08 14:38:00 +0000",
+      "minecraft:lush_caves": "2022-01-10 19:34:02 +0000",
       "minecraft:windswept_forest": "2022-01-08 19:05:02 +0000",
       "minecraft:ocean": "2022-01-08 17:00:23 +0000",
       "minecraft:jungle": "2022-01-09 14:14:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-01-08 19:05:12 +0000",
       "minecraft:flower_forest": "2022-01-08 12:53:59 +0000",
       "minecraft:frozen_peaks": "2022-01-08 16:32:10 +0000",
+      "minecraft:old_growth_birch_forest": "2022-01-10 19:49:03 +0000",
       "minecraft:meadow": "2022-01-08 12:54:31 +0000",
       "minecraft:plains": "2022-01-08 12:54:19 +0000"
     },
@@ -2016,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2022-01-10 19:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-01-08 13:00:23 +0000"
@@ -2079,6 +2137,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2022-01-08 14:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-01-10 19:30:10 +0000"
     },
     "done": true
   },
@@ -2239,6 +2303,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2022-01-08 14:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-01-10 19:26:35 +0000"
     },
     "done": true
   },
@@ -2545,6 +2615,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-08 14:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2022-01-10 19:37:52 +0000"
     },
     "done": true
   },
@@ -2890,6 +2966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-01-10 19:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2022-01-08 13:11:20 +0000"
@@ -2929,6 +3011,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2022-01-08 13:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2022-01-10 19:45:11 +0000"
     },
     "done": true
   },
@@ -3358,6 +3446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-01-10 19:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-01-08 13:13:19 +0000"
@@ -3415,6 +3509,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-01-08 13:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-01-10 19:30:48 +0000"
     },
     "done": true
   },
