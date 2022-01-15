@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2022-01-14 22:54:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 19:06:18 +0000"
@@ -2286,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-01-14 23:06:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2020-05-03 18:28:48 +0000"
@@ -3006,6 +3018,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2020-04-15 07:57:59 +0000",
+      "minecraft:sheep": "2022-01-15 01:28:16 +0000",
       "minecraft:mooshroom": "2020-04-21 17:17:12 +0000",
       "minecraft:cow": "2020-04-21 17:15:56 +0000"
     },
@@ -3296,6 +3309,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-04-15 08:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2022-01-14 22:28:10 +0000"
     },
     "done": true
   },
@@ -4187,6 +4206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2022-01-14 22:54:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-04-23 11:17:28 +0000"
@@ -4334,6 +4359,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2020-04-16 20:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2022-01-14 22:54:24 +0000"
     },
     "done": true
   },
