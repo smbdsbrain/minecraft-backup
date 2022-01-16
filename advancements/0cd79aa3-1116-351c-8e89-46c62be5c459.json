@@ -1921,6 +1921,7 @@
       "minecraft:snowy_slopes": "2022-01-08 13:44:15 +0000",
       "minecraft:mushroom_fields": "2019-10-18 19:49:21 +0000",
       "minecraft:taiga": "2020-04-04 19:41:11 +0000",
+      "minecraft:deep_ocean": "2022-01-15 15:45:58 +0000",
       "minecraft:frozen_river": "2019-10-03 21:45:28 +0000",
       "minecraft:sunflower_plains": "2022-01-08 13:40:19 +0000",
       "minecraft:birch_forest": "2019-10-03 22:11:23 +0000",
@@ -2801,6 +2802,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2019-09-29 13:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-01-15 15:40:09 +0000"
     },
     "done": true
   },
@@ -3930,6 +3937,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-09-19 12:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-01-15 15:51:55 +0000"
     },
     "done": true
   },

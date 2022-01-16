@@ -673,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-01-15 17:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2022-01-09 09:21:20 +0000"
@@ -778,6 +784,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2020-05-05 13:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-01-15 18:03:14 +0000"
     },
     "done": true
   },
@@ -1122,9 +1134,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-01-15 17:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2021-08-10 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-01-15 19:57:05 +0000"
     },
     "done": true
   },
@@ -1233,6 +1257,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-04-15 08:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-01-15 18:01:19 +0000"
     },
     "done": true
   },
@@ -1665,6 +1695,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-23 09:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-01-15 17:59:02 +0000"
     },
     "done": true
   },
@@ -2598,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-01-15 18:03:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-04-18 18:06:06 +0000"
@@ -2682,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-01-15 17:59:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-05-03 01:15:54 +0000"
@@ -2763,6 +2811,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-01-15 18:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-13 17:11:51 +0000"
@@ -2826,6 +2880,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2020-04-13 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-01-15 19:57:05 +0000"
     },
     "done": true
   },
@@ -4200,6 +4260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-01-15 17:59:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2021-09-06 17:50:21 +0000"
@@ -4353,6 +4419,12 @@
   "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2021-08-12 07:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-01-15 17:58:24 +0000"
     },
     "done": true
   },
